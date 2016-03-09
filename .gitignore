@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Source Folders
+.sass-cache
+bower_components
+components
+/node_modules
+/npm-debug.log
+
+# Dist folders
+assets/dist/icons
+build
