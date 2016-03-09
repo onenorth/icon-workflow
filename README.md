@@ -38,7 +38,7 @@ Feel free to leave us feedback on the workflow, or contribute to this project. U
 
 ## Roadmap
 
-- Have a good idea, or a concern? Submit a pull request and we'll take a look!
+Have a good idea, or a concern? Submit a pull request and we'll take a look!
 
 ## Credits
 
