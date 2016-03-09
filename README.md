@@ -1,4 +1,4 @@
-# gulp-icon-workflow
+# icon-workflow
 A gulp-based workflow for generating icon systems from `SVG`s, with `.png` fallbacks for geriatric browsers.
 
 You *should* be using SVGs, don't you know?
