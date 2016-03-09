@@ -51,7 +51,7 @@ The following is a limited list of people and resources used to fuel this projec
 - [gulp.spritesmith](https://github.com/twolfson/gulp.spritesmith): Create a spritesheet from a bunch of `.png`s, with accompanying auto-generated `css`
 
 #### Inspiration
-- [Working with SVG, A Primer](http://slides.com/sarasoueidan/working-with-svg-a-primer#/), one of the many awesome SVG resources created by the awesomer [Sara Soueidan](https://sarasoueidan.com/)
+- [Working with SVG, A Primer](http://slides.com/sarasoueidan/working-with-svg-a-primer#/), one of the many awesome SVG resources created by the awesomer [Sara Soueidan](https://sarasoueidan.com/).
 - [SVG4Everybody](https://github.com/jonathantneal/svg4everybody): Workflow ideas and many indispensible SVG resources.
 - [CSS Tricks](https://css-tricks.com/svg-sprites-use-better-icon-fonts/) and [Amelia Bellamy-Royds](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/) - For their saved-our-souls blog posts on everything you need to know about SVG and otherwise trecherous fallbacks.
 
